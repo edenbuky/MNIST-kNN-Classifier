@@ -37,4 +37,4 @@ In this question, we will study the performance of the Nearest Neighbor (NN) alg
 4. **Optimal Training Set Size:** While adding more data generally improves accuracy, **beyond a certain point (near 1200), the computational cost outweighs the performance benefits**.
 
 #### **Graph:**
-![Accuracy vs Training Size](docs/n_vs_accuracy.png)
+![Accuracy vs Training Size](n_vs_accuracy.png)
