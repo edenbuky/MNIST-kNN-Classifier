@@ -20,7 +20,7 @@ In this question, we will study the performance of the Nearest Neighbor (NN) alg
 - While `k=1` has slightly better accuracy than `k=5`, the difference is marginal, making `k=5` a safer choice.
 
 #### **Graph:**
-![Accuracy vs k](docs/k_vs_accuracy.png)
+![Accuracy vs k](k_vs_accuracy.png)
 
 ---
 
