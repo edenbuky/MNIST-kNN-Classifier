@@ -20,7 +20,7 @@ In this question, we will study the performance of the Nearest Neighbor (NN) alg
 - While `k=1` has slightly better accuracy than `k=5`, the difference is marginal, making `k=5` a safer choice.
 
 #### **Graph:**
-![Accuracy vs k](docs/graphs/k_vs_accuracy.png)
+![Accuracy vs k](docs/k_vs_accuracy.png)
 
 ---
 
@@ -37,4 +37,4 @@ In this question, we will study the performance of the Nearest Neighbor (NN) alg
 4. **Optimal Training Set Size:** While adding more data generally improves accuracy, **beyond a certain point (near 1200), the computational cost outweighs the performance benefits**.
 
 #### **Graph:**
-![Accuracy vs Training Size](docs/graphs/n_vs_accuracy.png)
+![Accuracy vs Training Size](docs/n_vs_accuracy.png)
