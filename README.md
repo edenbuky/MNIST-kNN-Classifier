@@ -14,9 +14,8 @@ The classifier is tested with different values of `k` and various training set s
 - `Q2b.py` - k-NN classifier implementation.  
 - `Q2c.py` - Evaluates accuracy across multiple k values.  
 - `Q2d.py` - Tests accuracy with varying training set sizes.  
-- `docs/Assignment1.pdf` - The original assignment description.  
 - `docs/Results.md` - Detailed results and analysis.  
-- `docs/graphs/` - Contains accuracy plots for different experiments.  
+- `docs/` - Contains accuracy plots for different experiments.  
 
 ## 🚀 How to Run  
 1. Clone this repository:  
